@@ -1,11 +1,11 @@
 package exercicio1;
 
 public class Cliente {
-    String nome;
-    int idade;
-    String email;
-    String telefone;
-    String endereco;
+    private String nome;
+    private int idade;
+    private String email;
+    private String telefone;
+    private String endereco;
 
     public Cliente(String nome, int idade, String email, String telefone, String endereco) {
         this.nome = nome;
