@@ -94,6 +94,6 @@ public class Funcionario {
         System.out.println("carga horária do funcionário:"+this.cargaHoraria);
         System.out.println("salário do funcionário:"+this.salario);
         System.out.println("setor do funcionário:"+this.setor);
-        System.out.println("---------------------------------------------");
+
     }
 }
