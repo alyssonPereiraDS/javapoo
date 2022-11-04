@@ -8,5 +8,6 @@ public class TestaFuncionario {
         Funcionario funcionario2 = new Funcionario("joão da silva",100,"não tem","024512","pau dos ferros",100,20000,"RH");
         funcionario1.visualizar();
         funcionario2.visualizar();
+
     }
 }

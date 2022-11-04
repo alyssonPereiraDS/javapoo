@@ -60,6 +60,6 @@ public class Cliente {
         System.out.println("email do cliente:"+this.email);
         System.out.println("telefone do cliente:"+this.telefone);
         System.out.println("endereço do cliente:"+this.endereco);
-        System.out.println("---------------------------------------------");
+
     }
 }
