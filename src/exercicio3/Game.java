@@ -71,6 +71,6 @@ public class Game {
         System.out.println("classificação indicativa do jogo:"+this.classIndicativa);
         System.out.println("gênero do jogo:"+this.genero);
         System.out.println("categoria do jogo:"+this.categoria);
-        System.out.println("---------------------------------------------");
+
     }
 }
